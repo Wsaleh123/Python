@@ -1,0 +1,2 @@
+{['asdf':'to']}{['asdf':'Asdf is the wesam of samsung']}
+{['asdf':'a nother way to say hi']}{['asdf':'askl;dfhj;adws']}{['asdf':'askl;dfhj;adws']}{['asdf':'asdf']}

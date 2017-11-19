@@ -1,0 +1,11 @@
+r - Opens the file in read mode ONLY
+
+r+ - Opens the file in read and write mode, adds any writing above the existing items in the file
+
+w - opens a file in writing mode ONLY
+
+w+ - opens a file in writing and reading mode, and overrides the file
+
+a - Opens the file in appending mode
+
+a+ - Opens the file in appending and reading mode and adds any writing below the existing items in the file
